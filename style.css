@@ -1,31 +1,30 @@
 body {    
-    color: #fff;
+    color: #ccc;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ccc;
 }
 
-header {
+#title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#copy {
+    font-size: 12px;
+}
+
+section > p {
+    margin-top: 30px;
+    margin-bottom: 3px;
+    padding: 0px;
+}
+section > ul {
+    margin-top: 0px;
+}
+
+section, footer {
     width: 80%;
-    height: 100px;
-    background: #233;
-    margin: 2px auto;
-    padding: 2px;
-}
-
-header h1 {
-    margin: 0px;
-}
-
-section {
-    width: 80%;
-    padding: 2px;
-    min-height: 400px;
-    background: #233;
-    margin: 2px auto;
-}
-
-footer {
-    width: 80%;
-    padding: 2px;
+    padding: 10px;
     background: #233;
     margin: 2px auto;
 }
