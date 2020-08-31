@@ -1,7 +1,5 @@
 # Austin Reimer
 
-![Profile](img/profile.jpg)
-
 Red River College BIT grad. I am seeking a job as a full-stack web developer or a software developer
 
 I have a few programs and projects on both [GitHub](https://github.com/austin-d-reimer/), and [GitLab](https://gitlab.com/austin-d-reimer).
