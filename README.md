@@ -1,6 +1,16 @@
-# Hi there, I'm <a  target="_blank" href="https://twitter.com/austin_reimer">Austin</a>
+<div align="center">  
+  <h1> Hi there, I'm <a  target="_blank" href="https://twitter.com/austin_reimer">Austin</a></h1>
+</div>
 
-Red River College BIT grad. I am seeking a job as a full-stack web developer or a software developer
+Red River College BIT grad. I am seeking a job as a full-stack web developer or a software developer.
+
+<div align="center">
+  
+[![Follow me](https://img.shields.io/badge/-@austin_reimer-black?style=flat-square&logo=Twitter)](https://twitter.com/austin_reimer)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-283E4A?style=flat-square&logo=LinkedIn)](www.google.ca)
+
+</div>
+
 
 ## About Me
 As a kid, I did not plan on being a software developer later in life; I originally wanted to be an electrician. While in high school, I learned practical skills are important to be a software developer, like HTML, jQuery, PHP, CSS, JavaScript from my Web Dev class. While completing my electrical major, I learned logic gates from using PLC and wiring relays for ‘and’, ‘or’, ‘nor’, ‘nand’ gates.
@@ -8,7 +18,6 @@ As a kid, I did not plan on being a software developer later in life; I original
 After I graduated high school, I realized that with Manitoba’s winter I should try to find a job that is indoors so I could avoid having to work outside in -30° weather. That turned out to be a great choice since I both enjoy programming and I am good at it.
 
 ## Tools and Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -33,10 +42,6 @@ After I graduated high school, I realized that with Manitoba’s winter I should
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=black)
 
-## Contact Me
-
-* [twitter](https://twitter.com/austin_reimer)
-* [Linkedin](https://www.linkedin.com/in/austin-reimer-58a918158/)
 
 ## Projects
 
