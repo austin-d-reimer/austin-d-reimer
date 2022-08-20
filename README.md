@@ -5,8 +5,7 @@
 Red River College BIT grad. I am seeking a job as a full-stack web developer or a software developer.
 
 <div align="center">
-  
-[![Follow me](https://img.shields.io/badge/-@austin_reimer-black?style=flat-square&logo=Twitter)](https://twitter.com/austin_reimer)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-283E4A?style=flat-square&logo=LinkedIn)](https://linkedin.austinreimer.ca)
 
 </div>
